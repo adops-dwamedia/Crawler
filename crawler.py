@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# running this program is probably actually a really bad idea.
+
 import subprocess
 import re
 import fileinput
